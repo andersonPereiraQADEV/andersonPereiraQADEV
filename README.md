@@ -63,18 +63,18 @@ e melhoria contínua dos processos de QA.
 ## 📊 Atividade no GitHub
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=andersonloko08&theme=dracula&hide_border=true" height="150" />
+  <img src="https://streak-stats.demolab.com?user=andersonPereiraQADEV&theme=dracula&hide_border=true" height="150" />
 </div>
 
 ---
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/andersonloko08/andersonloko08/output/pacman-contribution-graph-dark.svg">
+    srcset="https://raw.githubusercontent.com/andersonPereiraQADEV/andersonPereiraQADEV/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/andersonloko08/andersonloko08/output/pacman-contribution-graph.svg">
+    srcset="https://raw.githubusercontent.com/andersonPereiraQADEV/andersonPereiraQADEV/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/andersonloko08/andersonloko08/output/pacman-contribution-graph.svg">
+    src="https://raw.githubusercontent.com/andersonPereiraQADEV/andersonPereiraQADEV/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
