@@ -12,19 +12,20 @@ jobs:
   generate:
     permissions:
       contents: write
+
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
     steps:
-      - name: Generate pacman-contribution-graph.svg
+      - name: Generate pacman contribution graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: andersonPereiraQADEV
 
-      - name: Push pacman-contribution-graph.svg to output branch
+      - name: Push pacman graph to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: output
           build_dir: dist
+          target_branch: output
         env:
-          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
